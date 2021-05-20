@@ -1,16 +1,11 @@
 # demo_app
-
-A new Flutter project.
+Demos referenciales de aplicaciones escritas en flutter, estas son varias apps (sin terminar) dentro del mismo repositorio
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Diseño basico de una app de recetas sin terminar
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt menu](https://raw.githubusercontent.com/GioRey/demo_app/master/preview/recipe.gif)
+
